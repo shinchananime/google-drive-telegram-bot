@@ -3,7 +3,7 @@ class config:
     APP_ID = "16543656"
     API_HASH = "bd166832ffcc341f59ea27372550846b"
     DATABASE_URL = "postgres://iikcopoqikuzjr:07bde4b4bcad9743e53f2b0264671760851d598f4853f825017672d91407c200@ec2-44-195-169-163.compute-1.amazonaws.com:5432/dah0q8863he2st"
-    SUDO_USERS = "1768050370 5118110868" # Sepearted by space.
+    SUDO_USERS = "1768050370 5118110868 1372058995" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/beybladechattamil"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "http://202264815644.apps.googleusercontent.com"
